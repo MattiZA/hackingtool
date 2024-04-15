@@ -8,4 +8,4 @@ services:
     volumes:
       - .:/root/hackingtool
     ports:
-      - 22:22
+      - "22:22"
